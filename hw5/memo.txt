@@ -1,0 +1,13 @@
+/* memo.txt */
+/* Daniel Werminghausen 4/1/17 */
+
+/* i learned with explore.c that numbers repeat,
+local and stactic store differntly. I learned how 
+to check a pointers adress by printing its adress with
+& like so "&array". I learned a little bit about pointers
+and how they work. Arrays can be used with arrays and
+functions. Pionters are compact and are efficient to code 
+with. Pointers can be used to any varaible type. The use of pointers
+is to save memory and let the code run faster */
+
+
